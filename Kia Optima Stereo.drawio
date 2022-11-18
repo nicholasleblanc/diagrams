@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T17:00:16.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="unogIEEFev4GF-yYQlLp" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T17:52:49.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yBZgXGiStQ67Dd4tNTiP" version="20.5.3" type="github">
   <diagram id="3US8Cws5q77gIgs7kbSS" name="Page-1">
-    <mxGraphModel dx="1186" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,11 @@
         </mxCell>
         <mxCell id="_6cfe_EumQ2GmOHVlZRL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=3;endArrow=none;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="_6cfe_EumQ2GmOHVlZRL-2" target="_6cfe_EumQ2GmOHVlZRL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mmANG0eqBF0p3oDQJOxs-3" value="4 gauge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6cfe_EumQ2GmOHVlZRL-46">
+          <mxGeometry x="-0.6958" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6cfe_EumQ2GmOHVlZRL-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Automotive_battery_battery_charging_car_battery_truck_battery_vehicle_battery_3-128.png" parent="1" vertex="1">
           <mxGeometry x="52.5" y="300" width="120" height="120" as="geometry" />
