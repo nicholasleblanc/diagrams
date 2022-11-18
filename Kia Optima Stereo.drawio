@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:46:34.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7rqgsnzZftUs8Mc-erLR" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T17:00:16.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="unogIEEFev4GF-yYQlLp" version="20.5.3" type="github">
   <diagram id="3US8Cws5q77gIgs7kbSS" name="Page-1">
-    <mxGraphModel dx="1306" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6cfe_EumQ2GmOHVlZRL-6" value="Amplifier" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B5739D;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="_6cfe_EumQ2GmOHVlZRL-6" value="6-channel&lt;br&gt;Amplifier" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B5739D;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="602.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_6cfe_EumQ2GmOHVlZRL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;strokeWidth=3;endArrow=none;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_6cfe_EumQ2GmOHVlZRL-7" target="_6cfe_EumQ2GmOHVlZRL-3" edge="1">
