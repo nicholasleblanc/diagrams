@@ -1,1 +1,3 @@
-# diagrams
+# Diagrams
+
+Diagrams for various projects.
